@@ -7,3 +7,5 @@ opencv-python
 tqdm
 imageio>=2.5.0
 imgaug>=0.4.0
+tensorflow-model-optimization==0.7.2
+tf2onnx=1.9.3
