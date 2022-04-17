@@ -6,9 +6,10 @@ Changes in this repository
  - testing_end_to_end_pruning_modified.ipynb
  - Added a custom_evaluate.py
  - Added a convert2onnx.py
- - Weights are backed up to dropbox
+ - Weights are backed up to [dropbox](https://www.dropbox.com/sh/xtbltwge93am6u3/AABI4zv8_q426izlL1WXJUQSa?dl=0)
 
 For converting to onnx, install tf2onnx, refer requirements.txt for the version.
 For inference use mltf115_5(conda env, self reference)
 
 [TensorRT Inference](https://github.com/sachinkmohan/Jetson_test_projects/blob/main/Image_classification_nd/optimized/divamgupta-isk-inference.py)
+
