@@ -1,6 +1,6 @@
 #from keras_segmentation.models.unet import vgg_unet
 from tensorflow.keras.models import load_model
-from keras_segmentation.predict_2 import evaluate
+from keras_segmentation.custom_evaluate4models import evaluate
 
 #model = vgg_unet(n_classes=50 ,  input_height=320, input_width=640  )
 #model = load_model('./custom_model_files/striped_divam_ss_pruned_ep_model_20_new.h5')
