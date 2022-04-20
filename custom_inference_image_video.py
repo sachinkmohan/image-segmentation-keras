@@ -1,3 +1,7 @@
+```
+Author: Sachin K Mohan
+Purpose: Multipurpose inference using tflite and general inference, from image or from video
+```
 import os
 import six
 import numpy as np
