@@ -3,9 +3,10 @@
 Changes in this repository
  - `testing_end_to_end_modified.ipynb`
  - `testing_end_to_end_pruning_modified.ipynb` - pruning + tflite inference
+ - Added a [Custom evaluation for pruned and quantized](./keras_segmentation/custom_evaluate4models.py) file, which can be evaluated from this [file](./sample_train.py)
  - Added a `custom_evaluate.py`
  - Added a `convert2onnx.py`
- - Weights are backed up to [dropbox](https://www.dropbox.com/sh/xtbltwge93am6u3/AABI4zv8_q426izlL1WXJUQSa?dl=0)a
+ - Weights are backed up to [dropbox](https://www.dropbox.com/sh/xtbltwge93am6u3/AABI4zv8_q426izlL1WXJUQSa?dl=0)
  - `testing_end_to_end_quantization.ipynb` - quantization tests
  - `vgg_unet_im_seg_base_ep20.onnx` - onnx file
  - `sample_train.py` - for quick training
